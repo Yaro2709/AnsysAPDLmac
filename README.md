@@ -13,3 +13,6 @@ AnsysAPDLmac is a library of macros that is designed to simplify the development
 - Clone the repo in ANSYS Project: `git clone https://github.com/Yaro2709/AnsysAPDLmac`
 - Run your project with Mechanical ANSYS APDL.
 - Use macros, for example: `*use,results/UZ.mac`.
+
+## Examples
+Examples of using the library can be found in the collection [AnsysAPDLexamples](https://github.com/Yaro2709/AnsysAPDLexamples).
