@@ -5,6 +5,8 @@ AnsysAPDLmac is a library of macros that is designed to simplify the development
 ## Repository structure
 
 - [B188] - smisc for constructing BEAM188 type diagrams
+- [S181] - smisc for constructing SHELL181 type diagrams
+- [algorithms] - applied algorithms implemented in APDL
 - [calculations] - solving problems in different formulations
 - [results] - output of results after solution
  
